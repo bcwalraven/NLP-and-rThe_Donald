@@ -55,7 +55,3 @@ In addition to the classification, additional tools were developed for analyzing
 |**date**|*datetime*|The date the comment was posted|
 |**score**|*int*|The comment's score|
 |**subreddit**|*string*|The subreddit the comment was posted to|
-
-
-# Results and Conclusions:
-
